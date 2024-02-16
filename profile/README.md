@@ -4,11 +4,7 @@ Our plugins are kept **private**, any changes will be shown in this readme.
 Join Our [Discord](https://discord.gg/blundellandgrumpys) or
 Support us on [Patreon](https://www.patreon.com/join/blundellandgrumpy)!
 
-## Plugin Updates
-
-Stay up to date with the latest updates to our SCP:SL plugins.
-
-### Our Plugins
+## Our Plugins
 
 - **Blundell Core Plugin**
   - Provides a hint system for the rest of our plugins.
