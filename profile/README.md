@@ -10,12 +10,12 @@ Stay up to date with the latest updates to our SCP:SL plugins.
 
 ### Our Plugins
 
-- **[Blundell Core Plugin]**
+- **Blundell Core Plugin**
   - Provides a hint system for the rest of our plugins.
   - Adds a custom pre-game lobby that lets players choose their roles.
   - Adds in SCP-3114 spawning naturally.
 
-- **[Lucky Pills]**
+- **Lucky Pills**
   - Randomly assigns various effects to players each time they use "SCP-500" 
   - A fan favorite plugin of ours!
 
