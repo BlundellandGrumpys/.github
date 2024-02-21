@@ -1,6 +1,6 @@
 # Welcome to Blundell & Grumpy's Github Profile.
 
-Our plugins are kept **private**, any changes will be shown in this readme.
+Our plugins are kept **private**, Their name along with a short description will be shown in this readme. Any plugins not made by us are not shown in this readme.
 Join Our [Discord](https://discord.gg/blundellandgrumpys) or
 Support us on [Patreon](https://www.patreon.com/join/blundellandgrumpy)!
 
